@@ -1,0 +1,1 @@
+echo > src\clickjacking\__init__.py
